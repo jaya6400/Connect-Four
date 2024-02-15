@@ -1,8 +1,10 @@
 # Connect Four (AI Game)
 
 Connect Four is a game where two players alternate turns dropping colored discs into a vertical grid. Each player uses a different color (usually red or yellow), and the objective of the game is to be the first player to get four discs in a row.
+
 ![connect Four Game](https://github.com/jaya6400/Connect-Four/assets/66017717/e79071c1-e672-4499-9d3e-ba8b2bfb13c0)
 
+For tutorials, I referred Kaggle. This game will be build using Python and Deep Reinforcement Learning.
 
 ```
 obs contains two pieces of information:
